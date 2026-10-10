@@ -15,5 +15,5 @@ documentation for details.
    :maxdepth: 2
    :caption: Contents:
 
-   Mathematical_preliminaries
-   Quantum_mechanics_principles
+   Mathematical_preliminaries.md
+   Quantum_mechanics_principles.md
