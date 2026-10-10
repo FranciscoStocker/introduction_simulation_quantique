@@ -12,8 +12,9 @@ documentation for details.
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
 
-   Mathematical_preliminaries.md
-   Quantum_mechanics_principles.md
+   Mathematical_preliminaries
+   Quantum_mechanics_principles
+   Math_history

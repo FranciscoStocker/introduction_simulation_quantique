@@ -1,4 +1,3 @@
-**Mathematical preliminaries**
+# Mathematical preliminaries
 
-===============================
 
